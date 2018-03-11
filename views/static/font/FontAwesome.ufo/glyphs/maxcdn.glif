@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maxcdn" format="1">
+  <advance width="1792"/>
+  <unicode hex="F136"/>
+  <outline>
+    <contour>
+      <point x="1708" y="881" type="line"/>
+      <point x="1731" y="991"/>
+      <point x="1714" y="1084"/>
+      <point x="1656" y="1162" type="curve" smooth="yes"/>
+      <point x="1598" y="1240"/>
+      <point x="1516" y="1280"/>
+      <point x="1411" y="1280" type="curve" smooth="yes"/>
+      <point x="272" y="1280" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="304" y="0" type="line"/>
+      <point x="509" y="960" type="line"/>
+      <point x="813" y="960" type="line"/>
+      <point x="609" y="0" type="line"/>
+      <point x="912" y="0" type="line"/>
+      <point x="1117" y="960" type="line"/>
+      <point x="1314" y="960" type="line" smooth="yes"/>
+      <point x="1329" y="960"/>
+      <point x="1342" y="957"/>
+      <point x="1354" y="951" type="curve" smooth="yes"/>
+      <point x="1365" y="945"/>
+      <point x="1375" y="937"/>
+      <point x="1382" y="927" type="curve" smooth="yes"/>
+      <point x="1390" y="917"/>
+      <point x="1395" y="906"/>
+      <point x="1398" y="892" type="curve" smooth="yes"/>
+      <point x="1400" y="878"/>
+      <point x="1400" y="864"/>
+      <point x="1397" y="849" type="curve" smooth="yes"/>
+      <point x="1216" y="0" type="line"/>
+      <point x="1520" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

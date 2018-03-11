@@ -1,0 +1,19 @@
+{
+  "name": "ice-tech",
+  "version": "0.0.1",
+  "description": "bingmangtech.cn",
+  "main": "app.js",
+  "repository": "git@github.com:Bingmang/ice-tech.git",
+  "author": "bingmang",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.2",
+    "koa-views": "^6.1.4",
+    "lodash": "^4.17.5"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
