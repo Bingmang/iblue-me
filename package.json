@@ -11,7 +11,8 @@
     "koa-router": "^7.4.0",
     "koa-static": "^4.0.2",
     "koa-views": "^6.1.4",
-    "lodash": "^4.17.5"
+    "lodash": "^4.17.5",
+    "pm2": "^2.10.1"
   },
   "scripts": {
     "start": "node app.js"
