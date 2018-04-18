@@ -15,10 +15,12 @@ for (let url of Object.keys(ice_tech_router)) {
   }
 }
 
+const port = process.env.PORT || 19031
+
 app
   .use(static(path.join(__dirname, 'views')))
   .use(views(path.join(__dirname, 'views/templates')))
   .use(router.routes())
   .use(router.allowedMethods())
-  .listen(19031)
-console.log('app started at port 19031')
+  .listen(port)
+console.log('app started at port', port)
